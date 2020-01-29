@@ -1,5 +1,6 @@
-jupyter
+jupyterlab
+ipywidgets
 numpy
 scipy
-mathplotlib
+matplotlib
 voila
